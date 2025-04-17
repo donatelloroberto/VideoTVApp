@@ -1,0 +1,1 @@
+// VideoAdapter.kt placeholder
